@@ -1,0 +1,14 @@
+.search {
+  margin-top: 10px;
+}
+.search_input {
+  width: 40%;
+  height: 35px;
+}
+.button {
+  color: beige;
+  width: 15%;
+  height: 35px;
+  background-color: cornflowerblue;
+
+}
